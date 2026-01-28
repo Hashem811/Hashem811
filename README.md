@@ -1,16 +1,33 @@
-## Hi there 👋
+## Mission
+Defensive-focused cybersecurity practitioner with hands-on experience in network analysis,
+system deployment, and security validation. Primary interests include network traffic analysis,
+access control hardening, and adversary behavior observation through controlled environments.
 
-<!--
-**Hashem811/Hashem811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolkit
 
-Here are some ideas to get you started:
+**Operating Systems**
+- Linux
+- Windows
+- macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Security & Networking**
+- Network troubleshooting
+- Wireless security (WLAN)
+- Traffic analysis
+
+**Security Tools**
+- Wireshark
+- Aircrack-ng
+- John the Ripper
+- Cisco networking tools
+
+**Programming & Automation**
+- Python (automation scripting)
+- SQL (MySQL Workbench)
+
+**Systems**
+- System installation and configuration
+
+## Featured Work
+Pinned repositories below document my most rigorous security engagements, including proof of validation
+and corrective-learning diagnostics.
