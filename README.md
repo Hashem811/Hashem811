@@ -20,10 +20,11 @@ access control hardening, and adversary behavior observation through controlled 
 - Aircrack-ng
 - John the Ripper
 - Cisco networking tools
+- Cowrie
 
 **Programming & Automation**
-- Python (automation scripting)
-- SQL (MySQL Workbench)
+- Python 
+- SQL 
 
 **Systems**
 - System installation and configuration
