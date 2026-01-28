@@ -30,5 +30,4 @@ access control hardening, and adversary behavior observation through controlled 
 - System installation and configuration
 
 ## Featured Work
-Pinned repositories below document my most rigorous security engagements, including proof of validation
-and corrective-learning diagnostics.
+Pinned repositories are below.
